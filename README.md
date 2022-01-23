@@ -1,1 +1,1 @@
-# The classes of the models is in the directory models and the queries is in the file main.py
+# The classes of the models are in the directory models and the queries are in the file main.py
